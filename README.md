@@ -26,7 +26,8 @@ RegisterNumber: 24900019
 ```
 
 ## Output:
-<img width="638" alt="Screenshot 2024-10-10 at 12 59 35 PM" src="https://github.com/user-attachments/assets/5d519534-0789-47ab-9374-7d52d8fd563a">
+
+<img width="290" alt="Screenshot 2024-10-10 at 12 23 58 PM" src="https://github.com/user-attachments/assets/26b08a62-cc40-4d61-af54-34637be32123">
 
 
 
