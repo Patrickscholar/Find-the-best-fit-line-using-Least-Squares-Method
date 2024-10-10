@@ -27,9 +27,8 @@ RegisterNumber: 24900019
 
 ## Output:
 
-<img width="290" alt="Screenshot 2024-10-10 at 12 23 58 PM" src="https://github.com/user-attachments/assets/26b08a62-cc40-4d61-af54-34637be32123">
 
-
+<img width="598" alt="screenshot" src="https://github.com/user-attachments/assets/69abf0f3-1605-471f-8911-2f9151b8847a">
 
 
 ## Result:
