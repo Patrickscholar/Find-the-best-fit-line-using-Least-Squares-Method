@@ -26,7 +26,7 @@ RegisterNumber: 24900019
 ```
 
 ## Output:
-<img width="598" alt="screenshot" src="https://github.com/user-attachments/assets/d4b46b74-dc24-441e-9fc0-a7fb602c40fa">
+<img width="598" alt="screenshot" src="https://github.com/user-attachments/assets/cf8a9b30-9588-46f4-a93a-38fc1cd9afe7">
 
 
 ## Result:
