@@ -23,10 +23,11 @@ Program to implement univariate Linear Regression to fit a straight line using l
 Developed by: v patrick alex emmanuel 
 RegisterNumber: 24900019 
 */
-```
+
 
 
 ## Output:
+<img width="600" alt="Screenshot 2024-11-15 at 6 56 11 PM" src="https://github.com/user-attachments/assets/58e01bc5-feee-4211-9b03-d6d8ffeee062">
 
 
 
